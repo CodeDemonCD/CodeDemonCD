@@ -1,5 +1,5 @@
 # 💫 About Me:
-Am I Hidden Ghost 
+# Hidden Ghost 
 
 
 # 💻 Tech Stack:
